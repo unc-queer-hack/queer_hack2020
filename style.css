@@ -3,3 +3,7 @@ html, body{
   width: 100%;
   background-image: url("media/view_smooth.png");
 }
+
+h1 {
+  color:#f768d7;
+}
