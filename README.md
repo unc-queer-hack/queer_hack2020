@@ -10,6 +10,6 @@ To submit your team's project, the following need to be completed no later than 
 
 ---
 
-**Team Members: **
+Team Members: 
 
 ---
