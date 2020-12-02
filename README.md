@@ -6,7 +6,7 @@ To submit your team's project, the following need to be completed no later than 
 
 ---
 
-**Paste Video Link Here: **
+Video Link: 
 
 ---
 
